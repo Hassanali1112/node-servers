@@ -1,0 +1,17 @@
+{
+  "name": "express-mongo",
+  "version": "1.0.0",
+  "description": "practice server and database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "hassan ali",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.4",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.3"
+  }
+}
